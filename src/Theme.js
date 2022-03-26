@@ -14,6 +14,7 @@ const theme = createTheme({
       main:'#052FC2'
     }
   },
+  
 });
 
 export default theme;
