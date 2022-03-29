@@ -4,7 +4,7 @@ import { Img } from "react-image"
 
 export default function Banner() {
   return (
-    <Container maxWidth='50%' sx={{  color: 'primary.contrastText',display:"flex", justifyContent:'center' }} >
+    <Container  sx={{  color: 'primary.contrastText',display:"flex", justifyContent:'center' }} >
         <Typography variant="h1" align='center' >
             Discover
             <Img   src='/img/bannerRect.png' />
